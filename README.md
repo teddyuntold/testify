@@ -1,1 +1,1 @@
-C - More functions, more nested loops project 
+C - Debugging project
