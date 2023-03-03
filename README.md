@@ -1,1 +1,1 @@
-C - More pointers, arrays and strings Project 
+C - Even more pointers, arrays and strings project 
